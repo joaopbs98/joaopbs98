@@ -55,5 +55,5 @@ Expect to see:
 
 If you’re working on something interesting or want to chat about frontend architecture, interfaces, or React ecosystems:
 
-- [LinkedIn](https://www.linkedin.com/in/joaosilva-dev/)  
+- [LinkedIn](https://www.linkedin.com/in/joaosilva--dev/)  
 - Email available on request
