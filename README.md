@@ -25,7 +25,7 @@ Background includes:
 - **Languages:** JavaScript (ES6+), TypeScript, SQL  
 - **Frontend:** React, Next.js, Tailwind CSS, GSAP  
 - **Backend (learning):** Supabase, PostgreSQL, Node.js  
-- **Design Tools:** Figma, Designing Interfaces (Hype4), The Designership
+- **Design Tools:** Figma, Adobe XD, Framer
 
 ---
 
@@ -36,12 +36,13 @@ Background includes:
 - Web performance & accessibility  
 - Developer experience (DX) and workflow automation  
 - Full product development from idea to deployment
+- Building Web Apps
 
 ---
 
 ### In Progress
 
-I’m currently prioritizing finishing and refining personal projects that reflect my thinking, not just tutorials.  
+I’m currently prioritizing finishing and refining personal projects that reflect my thinking. 
 Expect to see:
 
 - Production-ready React/Next.js apps  
